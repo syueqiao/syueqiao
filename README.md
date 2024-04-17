@@ -1,8 +1,8 @@
 @syueqiao (Jess)
 
-Hon. BSc. in Microbiology and Immunology @ UBC. Interested in high-throughput biological data and how to analyze it (R newbie).
+Interested in high-throughput biological data and how to analyze it (R newbie).
 
-🐢I can be reached at jess0773[at]student.ubc.ca🐢
+🐢I can be reached at jessicayq.shen[at]mail.utoronto.ca🐢
 
 
 
